@@ -1,5 +1,5 @@
 # RoboticArm-Arduino-Project
-Arm capable of lifting semi weight objects
+Arm controlled by joystick and ultrasonic sensor, capable of lifting semi weight objects
 ## Built with:
   * C/C++
   * Arduino IDE
